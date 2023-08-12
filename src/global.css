@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --lcsa-app-bg-tablet: #121212;
+  --color-black: #000;
+  --color-white: #fff;
+
+  /* Gaps */
+  --gap-81xl: 100px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-xs: 12px;
+}
